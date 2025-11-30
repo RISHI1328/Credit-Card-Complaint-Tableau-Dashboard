@@ -80,6 +80,7 @@ Illinois
 Indicates strong correlation between population and complaint volume.
 
 Conclusion
+
 This dashboard provides an end-to-end understanding of consumer credit card complaints across the U.S.
 It highlights key issues, regional patterns, company responsiveness, and submission methods, helping stakeholders detect trends, resolve concerns faster, and improve customer satisfaction.
 
